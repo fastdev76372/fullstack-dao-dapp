@@ -503,8 +503,8 @@ export default function Home() {
           <div className="mb-6 md:mb-0">
 
             <div className="font-Cinzel font-bold text-lg text-right pt-8 pb-4 ml-8 content-center">
-            <a href="https://github.com/ShivaShanmuganathan" target="_blank" rel="noopener noreferrer">
-              MADE BY SHIVA
+            <a href="https://github.com/tomaswinner" target="_blank" rel="noopener noreferrer">
+              MADE BY TOMAS
             </a>
             </div>
 
@@ -525,8 +525,8 @@ export default function Home() {
         
         {/* <div className="font-Cinzel font-bold text-s text-center pt-8 pb-4">
 
-          <a href="https://github.com/ShivaShanmuganathan" target="_blank" rel="noopener noreferrer">
-              MADE WITH &#10084; BY SHIVA
+          <a href="https://github.com/tomaswinner" target="_blank" rel="noopener noreferrer">
+              MADE WITH &#10084; BY TOMAS
           </a>
 
         </div> */}

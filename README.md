@@ -30,7 +30,7 @@
 ## Run This Project 🏃‍♀️💨
 1. Clone this repository 
 ```shell 
-git clone https://github.com/ShivaShanmuganathan/fullstack-dao-dapp
+git clone https://github.com/tomaswinner/fullstack-dao-dapp
 ```
 
 2. Frontend - goto the frontend folder, install dependencies, and run the app. Visit [localhost:3000](http://localhost:3000/)
